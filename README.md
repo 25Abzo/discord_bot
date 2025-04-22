@@ -26,5 +26,5 @@ Un bot Discord simple et efficace pour recevoir les dernières actualités techn
 
 1. **Clone le dépôt :**
    ```bash
-   git clone https://github.com/votre-utilisateur/discord_tech_news_bot.git
-   cd discord_tech_news_bot
+   git clone https://github.com/25Abzo/discord_bot.git
+   cd discord_bot
