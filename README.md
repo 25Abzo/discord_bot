@@ -28,3 +28,15 @@ Un bot Discord simple et efficace pour recevoir les dernières actualités techn
    ```bash
    git clone https://github.com/25Abzo/discord_bot.git
    cd discord_bot
+
+2. **Installe les dépendances :**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Ajoute ton token Discord dans un fichier .env:**
+   ```env 
+   DISCORD_BOT_TOKEN=token
+
+4. **Lance le bot :**
+   ```bash
+   python main.py
